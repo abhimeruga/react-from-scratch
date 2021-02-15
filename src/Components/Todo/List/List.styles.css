@@ -1,0 +1,17 @@
+.todo-title-witdh {
+    width: 60%!important;
+}
+.todo-action-witdh {
+    width: 40%!important;
+}
+
+.select-progress {
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid lightgrey;
+    padding-top: .25rem;
+    padding-bottom: .25rem;
+    padding-left: .5rem;
+    font-size: .875rem;
+    line-height: 1.5em;
+}
